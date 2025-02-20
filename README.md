@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhuanlucasdev&label=Profile%20views&color=0e75b6&style=flat" alt="rhuanlucasdev" /> </p>
 
-- 🌱 I’m currently learning **dotnet**
+- 🌱 I am currently improving my skills in **React.js**, **HTML**, **CSS**, and **TailwindCSS**.
 
 - 📫 How to reach me **rhuanlucassbs@gmail.com**
 
