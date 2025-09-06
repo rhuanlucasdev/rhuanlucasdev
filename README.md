@@ -23,10 +23,11 @@ I have hands-on experience with:
 
 📌 I’m looking for my first opportunity to apply knowledge, learn from the team, and grow as a developer. 🚀  
 
-🔗 **Links**  
-- [LinkedIn](https://www.linkedin.com/in/rhuanlucasdev)  
-- [GitHub](https://github.com/rhuanlucasdev)  
-- [Portfolio](https://rhuanlucasdev.netlify.app)
+🔗 LinkedIn: [linkedin.com/in/rhuanlucasdev](https://www.linkedin.com/in/rhuanlucasdev)
+
+🔗 GitHub: [github.com/rhuanlucasdev](https://github.com/rhuanlucasdev)
+
+🔗 Portfolio: [rhuanlucasdev.netlify.app](https://rhuanlucasdev.netlify.app)
 
 ---
 
