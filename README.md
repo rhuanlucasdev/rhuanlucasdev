@@ -1,5 +1,6 @@
 # 👩🏻‍💻 Rhuan Lucas Carvalho Almeida Silva
 
+## 🇧🇷 Português  
 **`Desenvolvedor Frontend`**
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** (conclusão: dez/2027) e apaixonado por tecnologia e desenvolvimento web. Tenho experiência prática em **React, TypeScript, JavaScript, HTML, CSS e TailwindCSS**, além de versionamento com **Git e GitHub**. Busco minha primeira oportunidade para aplicar conhecimentos, aprender com a equipe e evoluir como desenvolvedor. 🚀
