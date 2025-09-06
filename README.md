@@ -13,6 +13,23 @@
 
 ---
 
+## 🇺🇸 English  
+
+💻 Student of **Systems Analysis and Development** (graduation: **Dec/2027**) and passionate about technology and web development.  
+
+I have hands-on experience with:  
+✨ **React** • **TypeScript** • **JavaScript** • **HTML** • **CSS** • **TailwindCSS**  
+🔧 Version control with **Git** and **GitHub**  
+
+📌 I’m looking for my first opportunity to apply knowledge, learn from the team, and grow as a developer. 🚀  
+
+🔗 **Links**  
+- [LinkedIn](https://www.linkedin.com/in/rhuanlucasdev)  
+- [GitHub](https://github.com/rhuanlucasdev)  
+- [Portfolio](https://rhuanlucasdev.netlify.app)
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> 
