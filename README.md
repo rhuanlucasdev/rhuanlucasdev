@@ -11,7 +11,7 @@ Tenho experiência prática em:
 
 📌 Busco minha primeira oportunidade para aplicar conhecimentos, aprender com a equipe e evoluir como desenvolvedor. 🚀  
 
-🔗 LinkedIn: [linkedin.com/in/rhuanlucasdev](https://www.linkedin.com/in/rhuanlucasdev)
+🔗 LinkedIn: [linkedin.com/in/rhuanlucascas](https://www.linkedin.com/in/rhuanlucascas)
 
 🔗 GitHub: [github.com/rhuanlucasdev](https://github.com/rhuanlucasdev)
 
