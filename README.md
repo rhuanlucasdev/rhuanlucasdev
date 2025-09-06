@@ -29,7 +29,7 @@ I have hands-on experience with:
 
 📌 I’m looking for my first opportunity to apply knowledge, learn from the team, and grow as a developer. 🚀  
 
-🔗 LinkedIn: [linkedin.com/in/rhuanlucasdev](https://www.linkedin.com/in/rhuanlucasdev)
+🔗 LinkedIn: [linkedin.com/in/rhuanlucascas](https://www.linkedin.com/in/rhuanlucascas)
 
 🔗 GitHub: [github.com/rhuanlucasdev](https://github.com/rhuanlucasdev)
 
