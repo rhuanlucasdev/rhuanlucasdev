@@ -11,7 +11,7 @@ Tenho experiência prática em:
 
 📌 Busco minha primeira oportunidade para aplicar conhecimentos, aprender com a equipe e evoluir como desenvolvedor. 🚀  
 
-🔗 LinkedIn: [linkedin.com/in/rhuanlucascas](https://www.linkedin.com/in/rhuanlucascas)
+🔗 LinkedIn: [linkedin.com/in/rhuanlucas](https://www.linkedin.com/in/rhuanlucas)
 
 🔗 GitHub: [github.com/rhuanlucasdev](https://github.com/rhuanlucasdev)
 
@@ -29,7 +29,7 @@ I have hands-on experience with:
 
 📌 I’m looking for my first opportunity to apply knowledge, learn from the team, and grow as a developer. 🚀  
 
-🔗 LinkedIn: [linkedin.com/in/rhuanlucascas](https://www.linkedin.com/in/rhuanlucascas)
+🔗 LinkedIn: [linkedin.com/in/rhuanlucas](https://www.linkedin.com/in/rhuanlucas)
 
 🔗 GitHub: [github.com/rhuanlucasdev](https://github.com/rhuanlucasdev)
 
