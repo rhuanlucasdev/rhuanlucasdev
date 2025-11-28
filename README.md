@@ -9,7 +9,7 @@ Tenho experiência prática em:
 ✨ **React** • **TypeScript** • **JavaScript** • **HTML** • **CSS** • **TailwindCSS**  
 🔧 Versionamento com **Git** e **GitHub**  
 
-📌 Busco minha primeira oportunidade para aplicar conhecimentos, aprender com a equipe e evoluir como desenvolvedor. 🚀  
+📌 Atualmente atuo como estagiário de desenvolvimento na AVANTI e busco ampliar minhas responsabilidades, aplicar meus conhecimentos de forma estratégica e continuar evoluindo profissionalmente na área. 🚀  
 
 🔗 LinkedIn: [linkedin.com/in/rhuanlucas](https://www.linkedin.com/in/rhuanlucas)
 
@@ -27,7 +27,7 @@ I have hands-on experience with:
 ✨ **React** • **TypeScript** • **JavaScript** • **HTML** • **CSS** • **TailwindCSS**  
 🔧 Version control with **Git** and **GitHub**  
 
-📌 I’m looking for my first opportunity to apply knowledge, learn from the team, and grow as a developer. 🚀  
+📌 I am currently working as a Development Intern at AVANTI, seeking to expand my responsibilities, apply my knowledge effectively, and continue growing professionally in the field. 🚀  
 
 🔗 LinkedIn: [linkedin.com/in/rhuanlucas](https://www.linkedin.com/in/rhuanlucas)
 
