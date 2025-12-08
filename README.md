@@ -52,4 +52,4 @@ I have hands-on experience with:
 
 ### 📊 Estatísticas / Statistics
 
-![Tecnologias](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rhuanlucasdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10)
+![Metrics](https://metrics.lecoq.io/rhuanlucasdev?template=classic&languages=1&languages.limit=10&config.timezone=America/Sao_Paulo)
