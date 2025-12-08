@@ -65,20 +65,55 @@ I have hands-on experience with:
 
 </div>
 
-### 🧠 GitHub Activity — VSCode Style
+## 🧠 GitHub Activity — VSCode Mode
 
-<div align="center">
+<div style="display:flex; gap:16px;">
 
-<!-- Simulação de janela VSCode -->
-  
-```js
-// 📁 rhuanlucasdev/stats/github.js
-// --------------------------------------------
-// Visualização das minhas estatísticas no GitHub
-// Como um bom dev, tudo passa pelo VS Code 😎
-// --------------------------------------------
+  <!-- SIDEBAR EXPLORER -->
+  <div style="min-width:200px; padding:10px; background:#1e1e1e; border-radius:6px; color:#ccc; font-family:Consolas, monospace;">
 
-console.log("📊 Most Used Languages + Stats Overview");
+  <strong style="color:#4FC1FF;">EXPLORER</strong>
+  <br/><br/>
 
-</div> <div align="center" style="margin-top: 20px;"> <!-- Caixa estilo janela VSCode --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuanlucasdev&theme=tokyonight" width="98%"/> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhuanlucasdev&theme=tokyonight" height="170"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rhuanlucasdev&theme=tokyonight" height="170"/> </div>
-```
+  <details open>
+    <summary>📁 rhuanlucasdev</summary>
+    <div style="margin-left:12px;">
+      <details open>
+        <summary>📁 stats</summary>
+        <p style="margin-left:12px;">📄 github.js</p>
+      </details>
+      <details>
+        <summary>📁 projects</summary>
+        <p style="margin-left:12px;">📄 bikecraft-react.js</p>
+        <p style="margin-left:12px;">📄 portfolio-vscode.jsx</p>
+      </details>
+      <details>
+        <summary>📁 config</summary>
+        <p style="margin-left:12px;">⚙ themes.json</p>
+      </details>
+      <p>📄 README.md</p>
+    </div>
+  </details>
+
+  </div>
+
+  <!-- CODE EDITOR WINDOW -->
+  <div style="flex:1;">
+
+  <!-- BARRA SUPERIOR -->
+  <div style="background:#151515; padding:6px 10px; border-radius:6px 6px 0 0; font-family:Consolas; color:#ddd;">
+    🟩 github.js
+  </div>
+
+  <div style="background:#0d1117; border-radius:0 0 6px 6px; padding:20px; font-family:Consolas, monospace; color:#c9d1d9;">
+
+  ```js
+  // 📁 rhuanlucasdev/stats/github.js
+  // --------------------------------------------
+  // Visualização das minhas estatísticas no GitHub
+  // Estilo VS Code para quem realmente é dev 😎
+  // --------------------------------------------
+
+  console.log("📊 Most Used Languages + Stats Overview");
+  ```
+  <div align="center"> <!-- CARDS --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuanlucasdev&theme=tokyonight" width="100%"/> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhuanlucasdev&theme=tokyonight" height="170"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rhuanlucasdev&theme=tokyonight" height="170"/> </div> </div> </div> ```
