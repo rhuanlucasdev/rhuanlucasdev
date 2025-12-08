@@ -64,3 +64,20 @@ I have hands-on experience with:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rhuanlucasdev&theme=tokyonight" height="170">
 
 </div>
+
+### 🧠 GitHub Activity — VSCode Style
+
+<div align="center">
+
+<!-- Simulação de janela VSCode -->
+  
+```js
+// 📁 rhuanlucasdev/stats/github.js
+// --------------------------------------------
+// Visualização das minhas estatísticas no GitHub
+// Como um bom dev, tudo passa pelo VS Code 😎
+// --------------------------------------------
+
+console.log("📊 Most Used Languages + Stats Overview");
+```
+</div> <div align="center" style="margin-top: 20px;"> <!-- Caixa estilo janela VSCode --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuanlucasdev&theme=tokyonight" width="98%"/> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhuanlucasdev&theme=tokyonight" height="170"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rhuanlucasdev&theme=tokyonight" height="170"/> </div>
