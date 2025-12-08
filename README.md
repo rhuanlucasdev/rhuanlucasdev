@@ -50,70 +50,30 @@ I have hands-on experience with:
 
 <br/><br/>
 
-### 📊 Estatísticas / Statistics
 
-<div align="center">
+## 🧠 GitHub Activity
 
-  <!-- Detalhes completos do perfil -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuanlucasdev&theme=tokyonight" alt="Resumo do Perfil" />
-
-  <br/>
-
-  <!-- Linguagens e commits lado a lado -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhuanlucasdev&theme=tokyonight" height="170">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rhuanlucasdev&theme=tokyonight" height="170">
-
-</div>
-
-## 🧠 GitHub Activity — VSCode Mode
-
-<div style="display:flex; gap:16px;">
-
-  <!-- SIDEBAR EXPLORER -->
-  <div style="min-width:200px; padding:10px; background:#1e1e1e; border-radius:6px; color:#ccc; font-family:Consolas, monospace;">
-
-  <strong style="color:#4FC1FF;">EXPLORER</strong>
+<div align="center" style="font-family:consolas, monospace; color:#dcdcdc;">
+  
+  📊 <strong>Minhas Estatísticas do GitHub</strong>
   <br/><br/>
 
-  <details open>
-    <summary>📁 rhuanlucasdev</summary>
-    <div style="margin-left:12px;">
-      <details open>
-        <summary>📁 stats</summary>
-        <p style="margin-left:12px;">📄 github.js</p>
-      </details>
-      <details>
-        <summary>📁 projects</summary>
-        <p style="margin-left:12px;">📄 bikecraft-react.js</p>
-        <p style="margin-left:12px;">📄 portfolio-vscode.jsx</p>
-      </details>
-      <details>
-        <summary>📁 config</summary>
-        <p style="margin-left:12px;">⚙ themes.json</p>
-      </details>
-      <p>📄 README.md</p>
-    </div>
-  </details>
+  <!-- Card principal -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuanlucasdev&theme=tokyonight" 
+    width="95%"
+  />
 
-  </div>
+  <br/><br/>
 
-  <!-- CODE EDITOR WINDOW -->
-  <div style="flex:1;">
+  <!-- Linguagens e commits -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhuanlucasdev&theme=tokyonight" 
+    height="150"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rhuanlucasdev&theme=tokyonight" 
+    height="150"
+  />
 
-  <!-- BARRA SUPERIOR -->
-  <div style="background:#151515; padding:6px 10px; border-radius:6px 6px 0 0; font-family:Consolas; color:#ddd;">
-    🟩 github.js
-  </div>
-
-  <div style="background:#0d1117; border-radius:0 0 6px 6px; padding:20px; font-family:Consolas, monospace; color:#c9d1d9;">
-
-  ```js
-  // 📁 rhuanlucasdev/stats/github.js
-  // --------------------------------------------
-  // Visualização das minhas estatísticas no GitHub
-  // Estilo VS Code para quem realmente é dev 😎
-  // --------------------------------------------
-
-  console.log("📊 Most Used Languages + Stats Overview");
-  ```
-  <div align="center"> <!-- CARDS --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuanlucasdev&theme=tokyonight" width="100%"/> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhuanlucasdev&theme=tokyonight" height="170"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rhuanlucasdev&theme=tokyonight" height="170"/> </div> </div> </div> ```
+</div>
