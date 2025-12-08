@@ -52,4 +52,15 @@ I have hands-on experience with:
 
 ### 📊 Estatísticas / Statistics
 
-![Metrics](https://metrics.lecoq.io/rhuanlucasdev?template=classic&languages=1&languages.limit=10&config.timezone=America/Sao_Paulo)
+<div align="center">
+
+  <!-- Detalhes completos do perfil -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuanlucasdev&theme=tokyonight" alt="Resumo do Perfil" />
+
+  <br/>
+
+  <!-- Linguagens e commits lado a lado -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhuanlucasdev&theme=tokyonight" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rhuanlucasdev&theme=tokyonight" height="170">
+
+</div>
