@@ -54,11 +54,10 @@ I have hands-on experience with:
 ## 🧠 GitHub Activity
 
 <div align="center" style="font-family:consolas, monospace; color:#dcdcdc;">
-  
-  📊 <strong>Minhas Estatísticas do GitHub</strong>
+
+  ────────────────  📊 Estatísticas Gerais  ────────────────
   <br/><br/>
 
-  <!-- Card principal -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuanlucasdev&theme=tokyonight" 
     width="95%"
@@ -66,14 +65,16 @@ I have hands-on experience with:
 
   <br/><br/>
 
-  <!-- Linguagens e commits -->
+  ───────────────  🔥 Linguagens & Commits  ───────────────
+  <br/><br/>
+
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhuanlucasdev&theme=tokyonight" 
-    height="150"
+    height="160"
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rhuanlucasdev&theme=tokyonight" 
-    height="150"
+    height="160"
   />
 
 </div>
