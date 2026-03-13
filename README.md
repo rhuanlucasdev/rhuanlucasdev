@@ -15,7 +15,7 @@ Tenho experiência prática em:
 
 🔗 GitHub: [github.com/rhuanlucasdev](https://github.com/rhuanlucasdev)
 
-🔗 Portfolio: [rhuanlucasdev.netlify.app](https://rhuanlucasdev.netlify.app)
+🔗 Portfolio: [rhuanlucas.dev](https://rhuanlucas.dev)
 
 ---
 
@@ -33,7 +33,7 @@ I have hands-on experience with:
 
 🔗 GitHub: [github.com/rhuanlucasdev](https://github.com/rhuanlucasdev)
 
-🔗 Portfolio: [rhuanlucasdev.netlify.app](https://rhuanlucasdev.netlify.app)
+🔗 Portfolio: [rhuanlucas.dev](https://rhuanlucas.dev)
 
 ---
 
