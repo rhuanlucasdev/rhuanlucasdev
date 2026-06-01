@@ -64,7 +64,7 @@ Currently, I work on **SaaS platforms** and **e-commerce projects**, with hands-
 
 ### Portfolio
 
-Personal portfolio built to present my work, experience and projects with a modern and editorial visual identity.
+Personal portfolio built to present my work, experience, and projects with a modern editorial visual identity.
 
 **Stack:** Next.js, TypeScript, TailwindCSS, Framer Motion
 
@@ -72,23 +72,23 @@ Personal portfolio built to present my work, experience and projects with a mode
 
 ---
 
-### EMBRAZA Landing Page
+### Naturale Digital Menu
 
-Responsive landing page developed for a fashion brand, focused on visual identity, responsiveness and reusable components.
+Responsive digital menu developed for Espaço Naturale, a real client project designed to provide restaurant customers with quick QR Code access, clean navigation, and a simple browsing experience across devices.
 
-**Stack:** React, Next.js, TypeScript, TailwindCSS
+**Stack:** JavaScript, HTML, CSS
 
-[View repository](https://github.com/rhuanlucasdev/embraza_landingpage)
+[View repository](https://github.com/rhuanlucasdev/naturale-cardapio)
 
 ---
 
-### React To-Do List
+### Goyta Bus
 
-Task management application created to practice state management, componentization and front-end fundamentals.
+Full stack bus transportation platform built as a monorepo, featuring a layered PHP API architecture and a planned React, TypeScript, and Vite frontend.
 
-**Stack:** React, JavaScript, CSS
+**Stack:** PHP, React, TypeScript, Vite, Monorepo Architecture
 
-[View repository](https://github.com/rhuanlucasdev/reactjs-todolist)
+[View repository](https://github.com/rhuanlucasdev/Goyta-Bus)
 
 ---
 
