@@ -92,15 +92,13 @@ Task management application created to practice state management, componentizati
 
 ---
 
-## GitHub Stats
+## Development Focus
 
-<div align="center">
-
-![Rhuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhuanlucasdev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanlucasdev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+- Full stack web applications with React, Next.js, TypeScript, Node.js and NestJS
+- REST API development, database modeling and PostgreSQL
+- SaaS platforms, dashboards and e-commerce products
+- Component-based architecture, clean code and responsive UI
+- Docker-based environments and cloud deployment with AWS
 
 ---
 
