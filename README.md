@@ -12,7 +12,7 @@ Currently, I work on **SaaS platforms** and **e-commerce projects**, with hands-
 
 - Full Stack Developer working with SaaS and e-commerce products
 - Experience with React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL and Docker
-- Development Intern at AVANTI, working on e-commerce projects
+- FullStack Developer at AVANTI, working on e-commerce projects
 - Full Stack Developer at Gestor Tools, contributing to a SaaS platform from its early stages
 - Systems Analysis and Development student at UNA
 - Advanced English proficiency — C1
